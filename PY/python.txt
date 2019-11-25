@@ -1,0 +1,7 @@
+002
+dir(__builtins__)
+help(input)
+003
+打印 單引號 \'
+打印成python原始字符串 前面加個r''  str=r'C:\Users\QER\Desktop\PY'
+跨越多行的字符串  """str str str"""
